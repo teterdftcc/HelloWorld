@@ -19,8 +19,8 @@ print('This program calculates the Area of a Rectangle')
 print('------------------------------------------------')
 length = int(input('Please Enter Rectangle Length: '))
 width = int(input('Please Enter Rectangle Width: '))
-Area = length * width
+area = length * width
 print("Length entered:", length)
 print("Width entered:", width)
 print('------------------------------------------------')
-print("The Area of the Rectangle is:", area)
+print("The area of the Rectangle is:", area)
